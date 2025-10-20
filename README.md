@@ -72,15 +72,9 @@ If you think I could help with your project, feel free to reach out anytime.
 <p align="center">
   <a href="https://linkedin.com/in/rezatoosi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:reza.toosi@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!--<a href="https://rezatoosi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white"/></a>-->
+  <a href="https://rezatoosi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center">
-  ⭐️ <i>"Imagine. Create. Connect."</i>
-</p>
-
+-->
 
 <!--
 **rezatoosi/rezatoosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
