@@ -1,6 +1,15 @@
 <!-- rezatoosi/rezatoosi -->
 <!-- GitHub Profile README -->
 
+### Hi, I'm Reza 👋
+
+I'm a full-stack developer focused on building reliable backends and clean frontends. I enjoy solving real problems with code that’s simple, scalable, and maintainable.
+If you think I could help with your project, feel free to reach out anytime.
+
+**Tech stack:** TypeScript · JavaScript · Python · PHP · Nest.js · React · Django · Flask · Docker · AWS · PostgreSQL · MongoDB
+
+
+<!--
 <h1 align="center">👋 Hi, I'm Reza</h1>
 
 <h2 align="center">
@@ -15,7 +24,6 @@
 - 🚀 Focused on **performance**, **usability**, and **real-world problem solving**  
 - 🌍 Always learning, building, and sharing  
 
-<!--
 ---
 
 ### 🧩 Featured Projects
@@ -28,7 +36,6 @@
 | 🌐 [Portfolio Generator](#) | Create developer portfolios in minutes | Next.js, Vercel |
 
 > 🧾 Each project includes setup docs, demo links, and code samples.
--->
 
 ---
 
