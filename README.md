@@ -1,12 +1,11 @@
 <!-- rezatoosi/rezatoosi -->
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Reza Toosi</h1>
+<h1 align="center">👋 Hi, I'm Reza</h1>
 
-<p align="center">
-  <b>Algorithmic Mind — code. create. connect.</b><br>
+<h2 align="center">
   Full-stack developer crafting scalable systems and elegant interfaces.
-</p>
+</h2>
 
 ---
 
@@ -16,6 +15,7 @@
 - 🚀 Focused on **performance**, **usability**, and **real-world problem solving**  
 - 🌍 Always learning, building, and sharing  
 
+<!--
 ---
 
 ### 🧩 Featured Projects
@@ -28,6 +28,7 @@
 | 🌐 [Portfolio Generator](#) | Create developer portfolios in minutes | Next.js, Vercel |
 
 > 🧾 Each project includes setup docs, demo links, and code samples.
+-->
 
 ---
 
@@ -63,14 +64,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rezatoosi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rezatoosi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://rezatoosi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:reza.toosi@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!--<a href="https://rezatoosi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white"/></a>-->
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ <i>"Code. Create. Connect."</i>
+  ⭐️ <i>"Imagine. Create. Connect."</i>
 </p>
 
 
