@@ -3,7 +3,7 @@
 
 ### Hi, I'm Reza 👋
 
-I'm a Senior Full-Stack Engineer focused on building reliable backends, clean frontends, and maintainable production systems. I enjoy solving real business problems with code that is simple, scalable, and easy to maintain.
+I'm a Senior Full-Stack Engineer focused on building reliable backends, clean frontends, and maintainable production systems. I believe in taking full ownership of projects, delivering end-to-end solutions, and solving real business problems with code that is simple, scalable, and easy to maintain.
 
 **Tech stack:** TypeScript · JavaScript · Python · PHP · Nest.js · React · Django · Flask · Docker · AWS · PostgreSQL · MongoDB · Redis · GitHub Actions
 
